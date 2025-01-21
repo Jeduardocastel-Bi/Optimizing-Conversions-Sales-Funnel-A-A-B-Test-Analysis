@@ -51,4 +51,4 @@ Each log entry represents a user action or event:
 
 ---
 
-🔗 **Project Link**:
+🔗 **Project Link**:https://github.com/Jeduardocastel/8.-User-Behavior-in-a-Product-App-/blob/main/projecto_integrado_11.ipynb
