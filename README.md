@@ -1,5 +1,11 @@
 # 👩🧑🍎🛒 8. User Behavior in a Product App  
 
+## 📌 Project Objectives  
+- **Sales Funnel Analysis:**  
+  - Examine how users navigate through each stage of the funnel.  
+  - Identify the number of users who complete purchases versus those who drop off.  
+  - Pinpoint specific stages where users encounter obstacles.
+    
 ## 📖 Project Description  
 You are working for a startup that sells food products. Your task is to analyze user behavior within the company's app.  
 
@@ -32,6 +38,20 @@ Each log entry represents a user action or event:
   - **248**: Experimental group (new font).  
 
 ---
+## 📊 Project Results  
+
+### 🧪 A/A/B Test Findings  
+- **p-values** are significantly **higher** than the corrected significance level **(0.0167)**.  
+- There are **no statistically significant differences** between the groups (**246, 247, and 248**).  
+- This confirms that the groups were **properly divided**, ensuring **experiment reliability** and **valid decision-making**.  
+
+### 📉 Sales Funnel Insights  
+- **User participation** across all events **can be improved**.  
+- The most **critical drop-off point** occurs **between the offer stage and the purchase stage**.  
+- **Recommendations:**  
+  - Introduce **discounts, special promotions, or bonus incentives** to encourage users to complete purchases.  
+  - Optimize the user experience in key stages to **increase conversion rates**.
+    
 
 ## 🛠️ Technologies Used  
 - **Programming Languages**: Python  
